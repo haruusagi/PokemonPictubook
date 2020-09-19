@@ -15,3 +15,4 @@
  docker-compose up
  
  ```
+ docker-composeにDB関連の記述ありますが、一切使ってません。
