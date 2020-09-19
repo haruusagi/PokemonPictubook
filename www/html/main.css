@@ -1,0 +1,46 @@
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+h1{
+    color: #fb5144;
+}
+h2{
+    color: #FFAAEB;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
+a:hover{
+    color: #ff21cb;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+  }
+  
+  table tr{
+    border-bottom: solid 1px #eee;
+    cursor: pointer;
+  }
+
+  table tr:hover{
+    background-color: #d4f0fd;
+  }
+  table th{
+      background-color: #fb5144;
+  }
+  table th,table td{
+    text-align: center;
+    width: 25%;
+    padding: 15px 0;
+  }
+  
+  table td.icon img{
+      width: 100px;
+      height: 100px;
+  }
+  .ID{
+      width: 10%;
+  }
